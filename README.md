@@ -113,8 +113,8 @@ Versiones con las que se desarrolló y probó el proyecto:
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/Markint86/ETL_PostgreSQL-Practica_2.git
-cd ETL_PostgreSQL-Practica_2
+git clone https://github.com/Markint86/ETL_PostgreSQL-Practica.git
+cd ETL_PostgreSQL-Practica
 ```
 
 **2. Crear un entorno virtual e instalar dependencias**
